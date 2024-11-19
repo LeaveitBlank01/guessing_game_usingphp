@@ -51,13 +51,6 @@ A simple PHP-based number guessing game where players try to guess a randomly ge
 - **index.php**: The main file containing all PHP logic and HTML structure for the game.
 - **CSS Styling**: Inline styles in `index.php` provide a clean and modern UI.
 
-## Screenshots
-
-| Start Screen                          | Gameplay                             | Winning Screen                      |
-|---------------------------------------|--------------------------------------|-------------------------------------|
-| ![Start Screen](images/start-screen.png) | ![Gameplay](images/gameplay.png) | ![Winning Screen](images/win-screen.png) |
-
-*(Add actual screenshots to the `images/` directory in your project and update the paths above.)*
 
 ## License
 
